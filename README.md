@@ -1,8 +1,8 @@
 # PWP SPRING 2019
-# PROJECT NAME
+# Ebin.Chat
 # Group information
-* Student 1. Name and email
-* Student 2. Name and email
-* Student 3. Name and email
+* Ville Heikkinen villheik@student.oulu.fi
+* Jari Hyvönen rake92@gmail.com
+* Juho Toratti kiiwi45@gmail.com
 
 
